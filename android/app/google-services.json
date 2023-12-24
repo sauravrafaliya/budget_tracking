@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "464970622160",
+    "firebase_url": "https://fir-76c7d-default-rtdb.firebaseio.com",
+    "project_id": "fir-76c7d",
+    "storage_bucket": "fir-76c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464970622160:android:2494f61eb733c2a0f06ad5",
+        "android_client_info": {
+          "package_name": "com.dhiwise.budget.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464970622160-a778oq9700p7ua0d2eablgh1qnp630q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5csbN3A1zFAr2TIrZmfTlZsdo7FfFMA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464970622160-0tacvhcssebh50o9psi9ltv4n4pjdjgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "464970622160-c56er1ahgoh5n37k3mges47s5g9fomb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.restro.restroWizard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464970622160:android:81224a23112cf0b9f06ad5",
+        "android_client_info": {
+          "package_name": "com.restro.wizard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464970622160-a778oq9700p7ua0d2eablgh1qnp630q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5csbN3A1zFAr2TIrZmfTlZsdo7FfFMA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464970622160-0tacvhcssebh50o9psi9ltv4n4pjdjgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "464970622160-c56er1ahgoh5n37k3mges47s5g9fomb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.restro.restroWizard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
